@@ -12,6 +12,9 @@ We got this idea on the night of hackathon, as we were watching the news and hea
 
 This web app focuses on everyday environmental issues around the globe and spreading awareness about it. It shows all the needed data in all the right places for users to integrate as much as possible
 
+![](https://i.imgur.com/4ksI8Kp.png)
+
+
 ## How we built it
 We developed the app using Bootstrap, JQuery and CSS, along with Firebase for our small "Backend"
 
